@@ -19,12 +19,36 @@ Komut satırına ;
 Paketleri kurduktan sonra programı çalıştırabilirsiniz.
  
 ## Program Nasıl Çalışır ?
-Dizindeki zenity klasörünü bilgisayarınıza indirin.
-Uçbirimi(terminali) açın ve komut satırına'cd ./zenity' yazarak dizine gidin.
-Programı çalıştırmak için komut satırına 'bash giris.sh' yazın.
-Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+1. Dizindeki zenity klasörünü bilgisayarınıza indirin.
+2. Uçbirimi(terminali) açın ve komut satırına 'cd ./zenity' yazarak dizine gidin.
+3. Programı çalıştırmak için komut satırına 'bash giris.sh' yazın.
+4. Ekranınıza aşağıdaki gibi bir zenity gelecek. Burada adınızı yazıp 'TAMAM' butonuna basınız.
+ 
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/giris.png)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+5.
+
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/main.png)
+
+6. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+ 
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/usb_denetleyicileri.png)
+
+7.
+
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/proc.png)
+
+8. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+ 
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/scsi.png)
+
+9.
+
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/sudo.png)
+
+10. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+ 
+![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/donan%C4%B1m_bilgileri.png)
 
 ## Uygulamada Yapılan Hesaplamalar
 Bu programda donanım ve sistem bilgileri için 19 tane komut bulunmaktadır. Bunlar ;
