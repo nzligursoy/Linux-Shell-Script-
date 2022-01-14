@@ -1,9 +1,6 @@
 # Linux-Shell-Script
 Donanım ve Sistem Bilgilerini Kontrol Etmek İçin Temel Linux Komutları
 
-## Videolu Anlatım Bağlantısı
-Videoya [buradan](http:// ) erişebilirsiniz.
-
 ## Projenin Amacı
 GUI arayüzünde Linux komutları ile donanım ve sistem bilgilerini görüntülemek. 
 
