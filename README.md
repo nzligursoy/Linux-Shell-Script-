@@ -26,31 +26,36 @@ Paketleri kurduktan sonra programı çalıştırabilirsiniz.
  
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/giris.png)
 
-5.
+5. Ekaranınızda aşağıdaki gibi seçebileceğiniz sistem ve donanım komutları listelenecektir.
 
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/main.png)
 
-6. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+6. Yukarıdan, örneğin '5 USB Denetleyicileri' ni seçtiğinizde zenity ekranına gelen cevap.
  
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/usb_denetleyicileri.png)
 
-7.
+7. Yukarıdan(sistem ve donanım komutlarından), örneğin '12 /proc' u seçtiğinizde gelen zenity ekranından komut seçimi yapabilirsiniz.
 
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/proc.png)
 
-8. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+8. Yukarıdan, örneğin '2 SCSI/Sata Devices' i seçtiğinizde zenity ekranına gelen cevap.
  
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/scsi.png)
 
-9.
+9. Yukarıdan(sistem ve donanım komutlarından), örneğin '13 sudo' u seçtiğinizde gelen zenity ekranından komut seçimi yapabilirsiniz.
 
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/sudo.png)
 
-10. Ekranınıza aşağıdaki gibi bir zenity gelecek. Buraya adınızı girip 'TAMAM' butonuna basınız.
+10. Yukarıdan, örneğin '1 Donanım Bilgileri' i seçtiğinizde zenity ekranına gelen cevap.
  
 ![This is an image](https://github.com/nzligursoy/Linux-Shell-Script-/blob/main/images/donan%C4%B1m_bilgileri.png)
 
-## Uygulamada Yapılan Hesaplamalar
+```
+!Komut cevapları görüntülenen zenity sayfasında 'İptal' butonuna bastığınızda programdan çıkış yapar. 
+!Komut seçimi yaptığınız zenity sayfasında 'İptal' butonuna bastığınızda bir önceki zenity sayfasına dönüş yapar. 
+```
+
+## Programdaki Komutlar
 Bu programda donanım ve sistem bilgileri için 19 tane komut bulunmaktadır. Bunlar ;
 1. Makine Donanım Adı - Makinenizin donanım adını görüntüler.
 2. İşlemci - İşlemci ve işlem birimleri  hakkında bilgileri listeler.
